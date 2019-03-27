@@ -3,7 +3,8 @@
 ## hostname: xxxxxx
 
 Ports Open
-TCP: 22,80
+TCP: 
+UDP: 
 
 Vulnerability Exploited: 
 
