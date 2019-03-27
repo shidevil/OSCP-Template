@@ -1,7 +1,7 @@
 # OSCP Checklist
 
 ## Public Network Checklist
-- [x] [hostname ip](Boxes/Public%20Network/box(1.2.3.4))
+- [x] [Box 1.2.3.4](Boxes/Public%20Network/box(1.2.3.4))
 
 ## IT Department Checklist
 
