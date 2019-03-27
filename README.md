@@ -1,6 +1,6 @@
 # OSCP Note taking template
 
-This is my note taking template i used during my OSCP experience. You can git clone it and edit it the way you want. There are some samples i made for editing images, code snippet and stuff. It is best to use the markdown cheatsheet by adam [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+This is my note taking template i used during my OSCP experience. You can git clone it and edit it the way you want. There are some samples i made for editing images, code snippet and stuff. It is best to use the markdown cheatsheet by Adam-p [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Public Network Checklist
 - [x] [Box 1.2.3.4](Boxes/Public%20Network/box(1.2.3.4))
