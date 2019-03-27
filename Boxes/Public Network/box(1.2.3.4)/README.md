@@ -31,3 +31,6 @@ Nmap
 Nmap output
 ```
 
+This is how you place a screenshot
+
+![](Screenshot/test.png)

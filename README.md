@@ -1,4 +1,6 @@
-# OSCP Checklist
+# OSCP Note taking template
+
+This is my note taking template i used during my OSCP experience. You can git clone it and edit it the way you want. There are some samples i made for editing images, code snippet and stuff. It is best to use the markdown cheatsheet by adam [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Public Network Checklist
 - [x] [Box 1.2.3.4](Boxes/Public%20Network/box(1.2.3.4))
@@ -13,7 +15,7 @@
 
 ## Administartive Department
 
-- [x] [hostname ip](Boxes/Administrative%20Deptartment/xxxx(xx.xx.xx.xx))
+- [x] [hostname ip](Boxes/Administrative%20Department/xxxx(xx.xx.xx.xx))
 
 ## Exercises Checlist
 - [x] [1.4.3](Exercises/1.4.3)
@@ -22,12 +24,12 @@
 
 # OSCP Diary
 
-### OSCP day 1 (19/08/18)
+### OSCP day 1 (DD/MM/YY)
 
 * Rooted
 1. x.x.x.x
 
-### OSCP day 2 (20/08/18)
+### OSCP day 2 (DD/MM/YY)
 
 * Exercises
 1. x.x.x
