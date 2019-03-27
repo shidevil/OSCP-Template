@@ -5,11 +5,11 @@
 
 ## IT Department Checklist
 
-- [x] [hostname ip](Boxes/IT%20Department/xxxx(xx.xx.xx.xx))
+- [ ] [hostname ip](Boxes/IT%20Department/xxxx(xx.xx.xx.xx))
 
 ## Development Network Checklist
 
-- [x] [hostname ip](Boxes/Development%20Network/xxxx(xx.xx.xx.xx))
+- [ ] [hostname ip](Boxes/Development%20Network/xxxx(xx.xx.xx.xx))
 
 ## Administartive Department
 
@@ -17,7 +17,7 @@
 
 ## Exercises Checlist
 - [x] [1.4.3](Exercises/1.4.3)
-- [ ] [x.x.x](Exercises/x.x.x)
+- [ ] [x.x.x](Exercises/1.5.0)
 - [ ] [x.x.x](Exercises/x.x.x)
 
 # OSCP Diary
