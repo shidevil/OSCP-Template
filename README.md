@@ -1,19 +1,19 @@
 # OSCP Checklist
 
 ## Public Network Checklist
-- [x] [<hostname> <ip>](Boxes/Public%20Network/box(1.2.3.4))
+- [x] [hostname ip](Boxes/Public%20Network/box(1.2.3.4))
 
 ## IT Department Checklist
 
-- [x] [<hostname> <ip>](Boxes/IT%20Department/xxxx(xx.xx.xx.xx))
+- [x] [hostname ip](Boxes/IT%20Department/xxxx(xx.xx.xx.xx))
 
 ## Development Network Checklist
 
-- [x] [<hostname> <ip>](Boxes/Development%20Network/xxxx(xx.xx.xx.xx))
+- [x] [hostname ip](Boxes/Development%20Network/xxxx(xx.xx.xx.xx))
 
 ## Administartive Department
 
-- [x] [<hostname> <ip>](Boxes/Administrative%20Deptartment/xxxx(xx.xx.xx.xx))
+- [x] [hostname ip](Boxes/Administrative%20Deptartment/xxxx(xx.xx.xx.xx))
 
 ## Exercises Checlist
 - [x] [1.4.3](Exercises/1.4.3)
